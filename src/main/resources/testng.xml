@@ -1,0 +1,12 @@
+
+
+<suite name="My testng test">
+	<test name="my tests">
+		<packages>
+			<package name="com.qa.tests.*" />
+
+		</packages>
+
+	</test>
+
+</suite>
